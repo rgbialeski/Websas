@@ -10,3 +10,4 @@ Criando um Projeto
 Executando
 
 - cordova run browser
+- cordova build android  "Gera a build para gerar o apk"
