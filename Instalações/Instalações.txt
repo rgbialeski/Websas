@@ -1,0 +1,12 @@
+Criando um Projeto
+
+- cordova create nomedapasta id.com nomedoaplicativo "se precisar separar palavras tem que usar aspas duplas".
+- cordova platform lts "lista oque ta instalado"
+- cordova plataform add browser "instala a plataforma browser"
+- cordova plataform add android "instala a plataforma android"
+
+
+
+Executando
+
+- cordova run browser
